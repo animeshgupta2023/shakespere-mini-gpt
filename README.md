@@ -31,6 +31,13 @@ This project implements a character-level Transformer language model in PyTorch.
 - Dropout: 0.2
 - Training steps: 5000 (default)
 
+## 🧠 Inspiration & References
+
+This project is based on the Transformer architecture introduced in  
+["Attention is All You Need" by Vaswani et al. (2017)](https://arxiv.org/abs/1706.03762)  
+and is inspired by [Andrej Karpathy's nanoGPT](https://github.com/karpathy/nanoGPT) — a minimal educational GPT implementation.
+
+
 ## 🧾 Usage
 
 ### 1. Prepare data
